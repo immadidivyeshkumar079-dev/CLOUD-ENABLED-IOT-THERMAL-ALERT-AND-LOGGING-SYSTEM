@@ -198,7 +198,7 @@ This project demonstrates an efficient IoT-based temperature monitoring and aler
 
 ## 👨‍💻 Author
 
-**Kristipati Vamsi Krishna**
+**IMMADI DIVYESH KUMAR**
 
 B.Tech Graduate  
 Electronics and Communication Engineering (ECE)
